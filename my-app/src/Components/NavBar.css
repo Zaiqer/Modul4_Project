@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+.navbar{
+    background-color: #496ddd;
+}
+
+.title{
+    font-family:'Rubik Bubbles';
+    color: burlywood;
+    font-weight: 500;
+}
